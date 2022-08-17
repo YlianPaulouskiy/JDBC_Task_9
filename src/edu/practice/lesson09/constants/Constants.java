@@ -4,6 +4,6 @@ public class Constants {
 
     public static final String URL = "jdbc:mysql://localhost:3306/watch_store";
     public static final String USERNAME = "root";
-    public static final String PASSWORD = "ezavel26";
+    public static final String PASSWORD = "root";
 
 }
